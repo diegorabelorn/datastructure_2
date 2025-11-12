@@ -68,4 +68,4 @@ A análise da MST revelou insights importantes sobre a topologia e a logística 
 
 ## Links
 * **Youtube**: https://youtu.be/sVHl4S-f98M
-* **Substack**:
+* **Substack**: https://open.substack.com/pub/diegorabelos/p/o-esqueleto-logistico-das-cidades?r=1lh0a7&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
