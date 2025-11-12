@@ -67,5 +67,5 @@ A análise da MST revelou insights importantes sobre a topologia e a logística 
 * **MST_<Cidade>_<Estado>_Brazil.jpeg**: Nove arquivos JPEG, cada um mostrando a plotagem do subgrafo da MST (rotas em vermelho) sobre a malha viária da cidade, com os POIs marcados em azul.
 
 ## Links
-* **Youtube**:
+* **Youtube**: https://youtu.be/sVHl4S-f98M
 * **Substack**:
