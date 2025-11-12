@@ -1,0 +1,10 @@
+Cidade;POIs (Buscados);POIs Conectados (n);MST Total (km);Média KM/POI (km/POI);Média KM/Aresta MST;Desvio Padrão (km)
+São Luís, Maranhão, Brazil;41;39;100,69;2,58;2,65;1,037
+Teresina, Piauí, Brazil;38;35;97,13;2,78;2,86;0,892
+Fortaleza, Ceará, Brazil;79;74;119,34;1,61;1,63;0,878
+Natal, Rio Grande do Norte, Brazil;100;69;67,30;0,98;0,99;0,557
+João Pessoa, Paraíba, Brazil;25;23;46,76;2,03;2,13;0,604
+Recife, Pernambuco, Brazil;88;85;110,00;1,29;1,31;0,935
+Maceió, Alagoas, Brazil;55;50;75,00;1,50;1,53;0,589
+Aracaju, Sergipe, Brazil;40;38;50,00;1,32;1,35;0,593
+Salvador, Bahia, Brazil;120;115;190,00;1,65;1,67;1,165
